@@ -10,8 +10,6 @@ I mostly tyring to learn a lot about Software engineer, system-level programming
 - Interested in collaborating on impactful open source projects.
 
 
-  
-
 
 ## Tech stack 
 - C/C++
@@ -21,8 +19,12 @@ I mostly tyring to learn a lot about Software engineer, system-level programming
   
 ----- Yeah, typicall 😒
 
-## Currently Learning
+## Currently Learning 
 - Core skills & software engineering using python. 
 - System Design & Scalability.
 - Advanced system adminstration in Redhat like env (Rocky Linux).
 - Increasing my skills in DevOps practices and tools (Docker, Kubernetes). 
+
+---
+- Currently I'm at [42 Irbid](https://42irbid.com/)
+- Taking a 6 months internship at [JOSA](https://josa.ngo/) 
