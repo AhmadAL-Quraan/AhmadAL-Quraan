@@ -25,6 +25,6 @@ I mostly tyring to learn a lot about Software engineer, system-level programming
 - Advanced system adminstration in Redhat like env (Rocky Linux).
 - Increasing my skills in DevOps practices and tools (Docker, Kubernetes). 
 
----
+## Current situation
 - Currently I'm at [42 Irbid](https://42irbid.com/)
 - Taking a 6 months internship at [JOSA](https://josa.ngo/) 
