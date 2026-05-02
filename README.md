@@ -17,7 +17,7 @@ I mostly tyring to learn a lot about Software egineer, system-level programming 
 - Bash
 - Java
   
-* Yeah, typicall 😒
+----- Yeah, typicall 😒
 
 ## Currently Learning
 - Core skills & software engineering using python. 
