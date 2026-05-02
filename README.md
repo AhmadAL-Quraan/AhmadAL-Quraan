@@ -6,8 +6,9 @@ I mostly tyring to learn a lot about Software engineer, system-level programming
 
 - I love minimalism, best code is minimal and correct code.
 - Strong problem solving mindset 🤷‍♂️ (who knows ?, wanna try me ?)
-- I love designing systems and finiding the best solution (algo, complexity) for any given problem.
+- I love designing systems and finiding the best solution (Algo, Complexity) for any given problem.
 - Interested in collaborating on impactful open source projects.
+
 
   
 
