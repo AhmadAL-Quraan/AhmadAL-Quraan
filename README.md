@@ -25,4 +25,4 @@ I mostly tyring to learn a lot about Software engineer, system-level programming
 - Core skills & software engineering using python. 
 - System Design & Scalability.
 - Advanced system adminstration in Redhat like env (Rocky Linux).
-- Increasing my skills on DevOps practices and tools (Docker, Kubernetes). 
+- Increasing my skills in DevOps practices and tools (Docker, Kubernetes). 
