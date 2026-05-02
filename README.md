@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**AhmadAL-Quraan/AhmadAL-Quraan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahmad, a Softwre and DevOps engineer based in Jordan.
+I mostly tyring to learn a lot about Software egineer, system-level programming and DevOps, also I love open source tech and admire Linux ❤️ (I don't use Arch btw) .
 
-Here are some ideas to get you started:
+- I love minimalism -> best code is minimal and correct code.
+- Strong problem solving mindset 🤷‍♂️ (who knows ?, wanna try me ?)
+- I love designing systems and finiding the best solutiong (algo, complexity) for any tough problem.
+- Interested in collaborating on impactful open source projects.
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech stack 
+- C/C++
+- Python
+- Bash
+- Java
+  
+* Yeah, typicall 😒
+
+## Currently Learning
+- Core skills & software engineering using python. 
+- System Design & Scalability.
+- Advanced system adminstration using RedHat.
+- Best DevOps practices and tools
