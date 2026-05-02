@@ -23,4 +23,4 @@ I mostly tyring to learn a lot about Software egineer, system-level programming 
 - Core skills & software engineering using python. 
 - System Design & Scalability.
 - Advanced system adminstration using RedHat.
-- Best DevOps practices and tools
+- Increasgin my skills on DevOps practices and tools (Docker, Kubernetes). 
