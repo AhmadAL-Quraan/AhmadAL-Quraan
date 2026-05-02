@@ -26,7 +26,7 @@ I mostly tyring to learn a lot about Software engineer, system-level programming
 - Increasing my skills in DevOps practices and tools (Docker, Kubernetes). 
 
 ## Current situation
-- Still studying at [Yarmouk University](https://www.yu.edu.jo/)
-- Student at [42 Irbid](https://42irbid.com/)
+- Still studying at [Yarmouk University](https://www.yu.edu.jo/) (Final year)
+- Student at [42 Irbid](https://42irbid.com/) (Core student)
 - Taking a 6 months internship at [JOSA](https://josa.ngo/) as an Open Source Contributor.
 
