@@ -20,7 +20,7 @@ I mostly tyring to learn a lot about Software engineer, system-level programming
 ----- Yeah, typicall 😒
 
 ## Currently Learning 
-- Core skills & software engineering using python. 
+- Core skills & software engineering practices using python. 
 - System Design & Scalability.
 - Advanced system adminstration in Redhat like env (Rocky Linux).
 - Increasing my skills in DevOps practices and tools (Docker, Kubernetes). 
