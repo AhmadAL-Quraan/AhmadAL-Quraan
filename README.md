@@ -11,7 +11,7 @@ I mostly tyring to learn a lot about Software engineer, system-level programming
 
 
 
-## Tech stack 
+## Programming languages 
 - C/C++
 - Python
 - Bash
