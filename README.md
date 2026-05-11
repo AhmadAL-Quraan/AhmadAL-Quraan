@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Ahmad, you can call me "ZAX" (Long story)
+I'm Ahmad, 
 
 My talents include forgetting why I entered a room and laughing at my own jokes before finishing them.
 
