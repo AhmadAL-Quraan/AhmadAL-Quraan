@@ -1,6 +1,7 @@
 ## Hi 👋
 
-I'm Ahmad,I reply “on my way” while still sitting on my bed.
+I'm Ahmad, I reply “on my way” while still sitting on my bed.
+
 My talents include forgetting why I entered a room and laughing at my own jokes before finishing them.
 
 - I mostly tyring to learn a lot about Software engineering principles, system-level programming, DevOps and system adminstration.
