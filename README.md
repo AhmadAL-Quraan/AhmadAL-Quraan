@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Ahmad, 
+I'm Ahmad, My nickname is "ZAX" 
 
 My talents include forgetting why I entered a room and laughing at my own jokes before finishing them.
 
