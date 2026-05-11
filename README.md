@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Ahmad, My nickname is "ZAX" (long story)
+I'm Ahmad, you can call me "ZAX" (long story)
 
 My talents include forgetting why I entered a room and laughing at my own jokes before finishing them.
 
